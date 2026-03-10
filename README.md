@@ -51,6 +51,8 @@ skills/
 | [frontend-workshop](skills/tools/frontend-workshop/SKILL.md) | Build and iterate on frontend components |
 | [skillcreator-interview-workshop](skills/tools/skillcreator-interview-workshop/SKILL.md) | Interview-driven workflow for creating new Claude skills |
 | [skillcreator-extract-workshop](skills/tools/skillcreator-extract-workshop/SKILL.md) | Extract and codify expertise into reusable skill files |
+| [keybindings-help](skills/tools/keybindings-help/SKILL.md) | Customize keyboard shortcuts, rebind keys, and add chord bindings in Claude Code |
+| [session-start-hook](skills/tools/session-start-hook/SKILL.md) | Auto-install project dependencies at the start of every remote Claude Code session |
 
 ---
 
