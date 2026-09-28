@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "jev": "tsx jev.ts"
+    "jev": "tsx --env-file-if-exists=.env.local jev.ts",
+    "start": "tsx --env-file-if-exists=.env.local index.ts"
   },
   "keywords": [],
   "author": "",
